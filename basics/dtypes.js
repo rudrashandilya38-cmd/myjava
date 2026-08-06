@@ -1,4 +1,4 @@
-"use strict"; //treat all JS codeas newer version.
+"use strict"; //treat all JS code as newer version.
 // alert ( 3+3 )// we are using node js, not a browser. So result throws undefined.
 
 console.log( 3+
