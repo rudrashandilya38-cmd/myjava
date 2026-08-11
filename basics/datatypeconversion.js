@@ -16,7 +16,7 @@ console.log(typeof valueNow) // Now Javascript will throw this result as number
 //let us check what actually is inside valueNow
 console.log(valueNow) /// Javascript throws "NaN" not a number errror
 
-// it means that although 56abc is converted in number, but it is actually not a number.
+// it means that although 56abc is converted in number, but it is actually not a  true number.
 
 
 let score4 = null
@@ -27,7 +27,15 @@ console.log(rishu)
 //Sumarry for score4 >>>
 //when we passed the variable score4 in number , it gets converted into a number.
 // but when we actually tried to print what actually inside rishu, we get 0.
+//
+
+let score5 = undefined
+let visu =Number (score5)
+console.log(visu)/// Not A Number
+console.log(typeof visu)// this will always show a number because it has been converted.
+
+//// Some Boolean conversion results.
+
+//1. 
 
 
-
-// 
