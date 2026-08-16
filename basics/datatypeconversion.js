@@ -36,6 +36,6 @@ console.log(typeof visu)// this will always show a number because it has been co
 
 //// Some Boolean conversion results.
 
-//1. 
-
-
+// 1=>true ; 0 ;=>false
+// " " => false
+//"rishu"=> true 
